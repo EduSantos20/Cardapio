@@ -7,6 +7,7 @@ Curso Front lee
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -31,9 +32,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Curso de Cardápio online no whatsapp.
+---
 
-## :memo: Licença
-
-## Esse projeto está sob a licença MIT.
-
-Feito com ♥ Eduardo Santos
+<p align="center">Feito com ♥ Eduardo Santos</p> 
